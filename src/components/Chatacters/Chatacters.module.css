@@ -1,0 +1,27 @@
+.container {
+ 
+display: flex;
+ align-items: center;
+    justify-content: space-between;
+}
+/* 
+ 
+.header {
+    box-shadow: 0px 5px 25px rgba(231, 226, 226, 0.2);
+}  */
+
+.nav {
+    font-size: 20px;
+    display: flex;
+    gap: 77px;
+    color:rgba(246, 247, 249, 1);
+}
+
+.activ {
+    border-bottom: 3px solid rgba(207, 218, 176, 1);;
+    padding-bottom: 20px;
+    border-radius: 2px;
+    display: inline-block;
+  
+}
+
